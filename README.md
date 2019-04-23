@@ -14,7 +14,7 @@
 | [Transaction Malleability](https://www.youtube.com/watch?v=jyDE-aFqJTs) | first 21 min of video | malleability, technical, 2014 |
 | [2015 Malleability Attack](https://bitcoinmagazine.com/articles/the-who-what-why-and-how-of-the-ongoing-transaction-malleability-attack-1444253640/) | 10 min | malleability, attack vectors |
 | [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 min | history |
-| [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 10 min | technical                  |
+| [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 10 min | wallet, technical                  |
 | [Bech32](https://diyhpl.us/wiki/transcripts/sf-bitcoin-meetup/2017-03-29-new-address-type-for-segwit-addresses/) | 35 min video | bech32 |
 | [Code Walkthrough](https://docs.google.com/document/d/1qn9SCQj2YQauE83FjglODUZJTQaz9WxrbaTtkP367cA/edit) | 20 min | code                  |
 
@@ -28,9 +28,9 @@
 4. Where are the locking script operations in P2WPKH/P2WSH?
 5. How can new script versions remain backwards compatible?
 6. What is weight/virtual bytes?
-7. What rationale was used to decide on the 4 MB segwit block weight (3 x old_tx_bytes + segwit_tx_bytes), instead of say a 2 MB block weight (old_tx_bytes + segwit_tx_bytes)?
+7. What rationale was used to decide on the 4 MB SegWit block weight (3 x old_tx_bytes + segwit_tx_bytes), instead of say a 2 MB block weight (old_tx_bytes + segwit_tx_bytes)?
 8. How is witness data committed to the block?
-9. What is the quadratic sighash problem prior to Segwit? How does bip143 solve this.
+9. What is the quadratic sighash problem prior to Segwit? How does [BIP 143](https://github.com/bitcoin/bips/blob/master/bip-0143.mediawiki) solve this?
 10. What would be the additional steps to include the fraud proofs described at the bottom of [this doc](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) and by [Sipa in 2015](https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/) via a softfork?
-11. How do users know whether miners support segwit prior to activation?
+11. How do users know whether miners support SegWit prior to activation?
 12. How does a (virtual block increase) affect IBD cost over time?
