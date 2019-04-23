@@ -8,7 +8,8 @@
 | [Transaction Malleability Primer](https://bitcointechtalk.com/transaction-malleability-explained-b7e240236fc7) | 5 min | tx malleability, primer |
 | [SegWit in Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook/blob/develop/ch07.asciidoc#segregated-witness) | 25 min |
 | [SegWit's Impact on Scalability](https://diyhpl.us/wiki/transcripts/scalingbitcoin/hong-kong/segregated-witness-and-its-impact-on-scalability/) | 30 min video | 2015, scale |
-| [SegWit Revisited](https://www.youtube.com/watch?v=AjBpIkfB-ac) | 27 min | technical                                            |
+| [SegWit Revisited](https://www.youtube.com/watch?v=AjBpIkfB-ac) | 7 min | technical                                            |
+| [SegWit with Jimmy Song](https://www.youtube.com/watch?v=Txfy2mFe16A) | 27 min | technical                                            |
 | [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 12 min | technical                                  |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 min | technical                                        |
 | [Transaction Malleability](https://www.youtube.com/watch?v=jyDE-aFqJTs) | first 21 min of video | malleability, technical, 2014 |
