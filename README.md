@@ -12,7 +12,6 @@
 | [SegWit Benefits](https://bitcoincore.org/en/2016/01/26/segwit-benefits/) | 12 min | technical                                  |
 | [SegWit Costs](https://bitcoincore.org/en/2016/10/28/segwit-costs/) | 20 min | technical                                        |
 | [Transaction Malleability](https://www.youtube.com/watch?v=jyDE-aFqJTs) | first 21 min of video | malleability, technical, 2014 |
-
 | [2015 Malleability Attack](https://bitcoinmagazine.com/articles/the-who-what-why-and-how-of-the-ongoing-transaction-malleability-attack-1444253640/) | 10 min | malleability, attack vectors |
 | [The Long Road to SegWit](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/) | 20 min | history |
 | [SegWit Wallet Development](https://bitcoincore.org/en/segwit_wallet_dev/) | 10 min | technical                  |
